@@ -1,0 +1,158 @@
+[
+ {
+   "name": "OPPO F21s Pro 5G",
+   "price": 245.67,
+   "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+   "ratings": 4.5,
+   "images": [
+     { "image": "/uploads/OPPO.jpg" },
+     { "image": "/uploads/OPPO.jpg" }
+   ],
+   "category": "Mobile Phones",
+   "seller": "Amazon",
+   "stock": 4
+ },
+ {
+   "name": "Apple iPhone 13",
+   "price": 799.99,
+   "description": "The Apple iPhone 13 features a stunning 6.1-inch Super Retina XDR display and A15 Bionic chip for fast performance.",
+   "ratings": 4.8,
+   "images": [
+     { "image": "/uploads/iPhone13.jpg" },
+     { "image": "/uploads/iPhone13.jpg" }
+   ],
+   "category": "Mobile Phones",
+   "seller": "Apple",
+   "stock": 10
+ },
+ {
+   "name": "Samsung Galaxy S21",
+   "price": 999.99,
+   "description": "Samsung Galaxy S21 features a 6.2-inch display, Snapdragon 888 processor, and powerful cameras for professional-grade photos.",
+   "ratings": 4.7,
+   "images": [
+     { "image": "/uploads/GalaxyS21.jpg" },
+     { "image": "/uploads/GalaxyS21.jpg" }
+   ],
+   "category": "Mobile Phones",
+   "seller": "Samsung",
+   "stock": 7
+ },
+ {
+   "name": "Sony WH-1000XM4 Headphones",
+   "price": 348.00,
+   "description": "Industry-leading noise cancellation and superb sound quality with the Sony WH-1000XM4 wireless headphones.",
+   "ratings": 4.6,
+   "images": [
+     { "image": "/uploads/SonyHeadphones.jpg" },
+     { "image": "/uploads/SonyHeadphones.jpg" }
+   ],
+   "category": "Headphones",
+   "seller": "Sony",
+   "stock": 15
+ },
+ {
+   "name": "Dell XPS 13 Laptop",
+   "price": 1199.99,
+   "description": "The Dell XPS 13 laptop offers an ultra-thin, ultra-light design with powerful specs and a 13.4-inch display.",
+   "ratings": 4.8,
+   "images": [
+     { "image": "/uploads/DellLaptop.jpg" },
+     { "image": "/uploads/DellLaptop.jpg" }
+   ],
+   "category": "Laptops",
+   "seller": "Dell",
+   "stock": 6
+ },
+ {
+   "name": "HP Spectre x360 2-in-1",
+   "price": 1499.99,
+   "description": "HP Spectre x360 offers versatile 2-in-1 laptop functionality with a 13.3-inch touchscreen and Intel i7 processor.",
+   "ratings": 4.7,
+   "images": [
+     { "image": "/uploads/HpLaptop.jpg" },
+     { "image": "/uploads/HpLaptop.jpg" }
+   ],
+   "category": "Laptops",
+   "seller": "HP",
+   "stock": 5
+ },
+ {
+   "name": "Nike Air Max 270",
+   "price": 150.00,
+   "description": "The Nike Air Max 270 features a large Air-Sole unit for superior comfort and a sleek, stylish design.",
+   "ratings": 4.5,
+   "images": [
+     { "image": "/uploads/Nike.jpg" },
+     { "image": "/uploads/Nike.jpg" }
+   ],
+   "category": "Footwear",
+   "seller": "Nike",
+   "stock": 12
+ },
+ {
+   "name": "Adidas Ultraboost 22",
+   "price": 180.00,
+   "description": "The Adidas Ultraboost 22 offers responsive cushioning with Boost technology for maximum comfort during long runs.",
+   "ratings": 4.7,
+   "images": [
+     { "image": "/uploads/Adidas.jpg" },
+     { "image": "/uploads/Adidas.jpg" }
+   ],
+   "category": "Footwear",
+   "seller": "Adidas",
+   "stock": 8
+ },
+ {
+   "name": "Sony Bravia 55-inch TV",
+   "price": 999.99,
+   "description": "Sony Bravia 55-inch 4K UHD Smart TV with Android OS for smooth streaming and vibrant picture quality.",
+   "ratings": 4.8,
+   "images": [
+     { "image": "/uploads/sony.jpg" },
+     { "image": "/uploads/sony.jpg" }
+   ],
+   "category": "Electronics",
+   "seller": "Sony",
+   "stock": 3
+ },
+ {
+   "name": "Samsung 75-inch 4K UHD TV",
+   "price": 1499.99,
+   "description": "Samsung 75-inch 4K UHD TV with Quantum Dot technology for an immersive viewing experience.",
+   "ratings": 4.6,
+   "images": [
+     { "image": "/uploads/Samsung.jpg" },
+     { "image": "/uploads/Samsung.jpg" }
+   ],
+   "category": "Electronics",
+   "seller": "Samsung",
+   "stock": 4
+ },
+ {
+   "name": "Apple MacBook Pro 14-inch",
+   "price": 1999.99,
+   "description": "Apple MacBook Pro 14-inch with M1 Pro chip, 16GB RAM, and 512GB SSD for powerful performance and seamless multitasking.",
+   "ratings": 4.9,
+   "images": [
+     { "image": "/uploads/MacBookPro.jpg" },
+     { "image": "/uploads/MacBookPro.jpg" }
+   ],
+   "category": "Laptops",
+   "seller": "Apple",
+   "stock": 5
+ },
+ {
+   "name": "Bose QuietComfort 45 Headphones",
+   "price": 329.99,
+   "description": "Bose QuietComfort 45 headphones feature world-class noise cancellation and crystal-clear sound quality.",
+   "ratings": 4.7,
+   "images": [
+     { "image": "/uploads/BoseHeadphones.jpg" },
+     { "image": "/uploads/BoseHeadphones.jpg" }
+   ],
+   "category": "Headphones",
+   "seller": "Bose",
+   "stock": 10
+ }
+]
